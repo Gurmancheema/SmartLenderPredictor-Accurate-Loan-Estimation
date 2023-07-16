@@ -8,7 +8,7 @@ Welcome to SmartLenderPredictor, an advanced loan prediction system powered by m
 
 - **Accurate Loan Estimation:** SmartLenderPredictor utilizes the power of decision tree algorithm to provide highly accurate loan approval predictions based on various features and historical data.
 - **Easy-to-Use Interface:** Our user-friendly interface makes it simple for lenders to input borrower details and receive instant loan approval estimates.
-- **Data Visualization:** Gain valuable insights into the loan approval process through interactive visualizations, allowing you to explore patterns and factors influencing loan decisions.
+- **[Data Visualization:]((https://github.com/Gurmancheema/SmartLenderPredictor-Accurate-Loan-Estimation/blob/main/EDA%20%26%20Model%20Trainng.ipynb))** Gain valuable insights into the loan approval process through interactive visualizations, allowing you to explore patterns and factors influencing loan decisions.
 - **Flexible and Customizable:** SmartLenderPredictor can be easily customized and adapted to your specific lending criteria and business requirements.
 
 ## How It Works
